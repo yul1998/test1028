@@ -157,7 +157,7 @@ def fx_calc_map_label(image, text, label, k=0, dist_method='L2'):
 
     return np.mean(res)
 
-
+# aaaa
 def zero2eps(x):
     x[x == 0] = 1
     return x
