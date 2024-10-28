@@ -18,6 +18,7 @@ if key_to_access in data:
 else:
     print(f"Key '{key_to_access}' not found in the file.")
 
+#更新
 # if isinstance(data, dict):
 #     # 获取字典中键的数量
 #     number_of_keys = len(data)
