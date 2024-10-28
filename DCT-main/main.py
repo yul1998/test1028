@@ -47,5 +47,7 @@ torch.cuda.manual_seed(57)
 torch.cuda.manual_seed_all(57)
 
 model = Model(args)
+#训练
+#测试
 model.train()
 model.test()
